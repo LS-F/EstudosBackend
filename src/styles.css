@@ -1,0 +1,10 @@
+*{
+    padding: 0px;
+    margin: 0px;
+};
+
+.center{
+    display:flex;
+    flex-direction: column;
+    background-color: pink;
+}
